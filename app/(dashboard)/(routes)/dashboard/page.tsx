@@ -5,7 +5,6 @@ export default function DashboardPage() {
   return (
     <div>
       <p>hello (protected)</p>
-      <UserButton afterSignOutUrl="/" />
     </div>
   );
 }
